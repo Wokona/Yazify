@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+brilliant.org	TRUE	/	FALSE	1999999999	brilliant_device_id	c7a6b896-c987-4c75-aa44-5d6e0456166a
+brilliant.org	TRUE	/	FALSE	1999999999	messages	W1siX19qc29uX21lc3NhZ2UiLDAsNDAsIllvdSBtdXN0IGJlIGxvZ2dlZCBpbiB0byB2aWV3IHRoYXQgcGFnZSIsIiJdXQ:1uHwvy:_Veg47Gf43dZDJDj75KJlmARSfgwaH0C50Now15aFCk
+brilliant.org	TRUE	/	FALSE	1999999999	b-exp-attrs	eyJpZGVudGl0eSI6ICJxZ09QN3Q4eE9EYVh4RTZ1b016RDVJT1hoaXBOczZnMCIsICJpc19hdXRoZW50aWNhdGVkIjogZmFsc2UsICJleHBlcmltZW50cyI6IHt9fQ=="
+brilliant.org	TRUE	/	FALSE	1999999999	csrftoken	amLT5vmLROqZTmyuo317rt5tLOI985dL
+brilliant.org	TRUE	/	FALSE	1999999999	sessionid	h0xdqmsz4gw1o3jw3lzeoe1gj7bt68g7
+.brilliant.org	TRUE	/	FALSE	1999999999	__cf_bm	fmISPqbRJcec5C9fzk934pD9oyjti6nuSHQ8uo3Tovo-1747885930-1.0.1.1-WZ3GvAbpRi_HcHOAm0Uh2wo73CnLpiCTPygApO3zBlnu8KABDXs.ozRy6S1YH0UfbojpZLZzZE10TkFObb4AvBLBafcM6Sut2_8fh2QAdlA
+.brilliant.org	TRUE	/	FALSE	1999999999	_cfuvid	v8xlvkg5mEYzp2k8t5FNbxfpmUmeiov4.ucANG4RFAg-1747885930418-0.0.1.1-604800000
+brilliant.org	TRUE	/	FALSE	1999999999	SameSite	None
+
